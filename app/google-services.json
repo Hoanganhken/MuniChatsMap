@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "305037395712",
+    "firebase_url": "https://munichats-b6443.firebaseio.com",
+    "project_id": "munichats-b6443",
+    "storage_bucket": "munichats-b6443.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305037395712:android:9e08c2b7657459ae",
+        "android_client_info": {
+          "package_name": "com.example.hoanganhken.munichats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305037395712-7842vifiu8ec55k527812o1puq7o4jmj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hoanganhken.munichats",
+            "certificate_hash": "864223b9df3f5e9420bbf429c78b84ec6be0129d"
+          }
+        },
+        {
+          "client_id": "305037395712-56pnfp961vse66m8js9kk7gc71kfb1tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2QDMqjmBA5nGseNCqGkZZ4FyoEZNHi7M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305037395712-56pnfp961vse66m8js9kk7gc71kfb1tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
